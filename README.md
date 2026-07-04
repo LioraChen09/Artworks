@@ -10,7 +10,7 @@
 
 ## ✏️ 260701 「讓我們共同守護公平的創作環境！」
 
-![260701](260701_FairCreativeEnv\FairCreativeEnv_T.png)
+![260701](260701_FairCreativeEnv/FairCreativeEnv_T.png)
 
 > **角色原作者**：「B站 @小畫渣林茜」（左、中）　　「LioraChen09」（右）
 > 
