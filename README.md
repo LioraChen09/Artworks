@@ -14,7 +14,7 @@
 
 **繪畫過程**：[BV1ptTc6bEX6](https://www.bilibili.com/video/BV1ptTc6bEX6)
 
-![260701](260701_FairCreativeEnv/FairCreativeEnv_T.png)
+![260701](260701_FairCreativeEnv/260701_T.png)
 
 > **角色原作者**：「[B站 @小畫渣林茜](https://space.bilibili.com/3546634958932547)」（左、中）　　「[LioraChen09](https://github.com/LioraChen09)」（右）
 > 
