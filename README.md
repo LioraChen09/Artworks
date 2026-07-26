@@ -1,6 +1,6 @@
 # 🎨 LioraChen09 的繪畫作品
-* 本倉庫用於歸檔 LioraChen09 自 2026 年 6 月起發表的繪畫作品。
-* 所有的作品均有**繁體**、**簡體**兩個版本，為了讓內容簡潔，以下僅展示繁體版（簡體版可在文件夾中找到）。
+* 本倉庫用於歸檔 LioraChen09 自 2026 年 7 月 1 日起發表的繪畫作品。
+* 所有的作品均有**繁體、簡體兩個版本**（如果需要區分），為了讓內容簡潔，以下僅展示繁體版（簡體版可在文件夾中找到）。
 
 > [!IMPORTANT]
 > 
@@ -14,9 +14,9 @@
 
 **繪畫過程**：[BV1ptTc6bEX6](https://www.bilibili.com/video/BV1ptTc6bEX6)
 
-![260701](260701_FairCreativeEnv/260701_T.png)
+![260701](re_creation/260701_FairCreativeEnv/260701_T.png)
 
-> **角色原作者**：「[B站 @小畫渣林茜](https://space.bilibili.com/3546634958932547)」（左、中）　　「[LioraChen09](https://github.com/LioraChen09)」（右）
+> **角色原作者**：「[bilibili @小畫渣林茜](https://space.bilibili.com/3546634958932547)」（左、中）　　「[LioraChen09](https://github.com/LioraChen09)」（右）
 > 
 > **畫師**：「[LioraChen09](https://github.com/LioraChen09)」
 
