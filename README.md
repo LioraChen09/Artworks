@@ -4,15 +4,24 @@
 
 > [!IMPORTANT]
 > 
-> **重要**：在使用本人作品前，請先閱讀 [使用規則（LICENSE.md）](LICENSE.md)。
+> **重要**：在使用本人作品前，請先閱讀 [使用規則（`LICENSE.md`）](LICENSE.md)。
 >
 > 標「⭐」的為**原創作品**，標「✏️」的為**二創作品 / 聯動作品 / 他人稿件**。
 >
-> 以下作品若無特別標注，均使用**華為天生會畫**繪製。
+> 以下作品若無特別標示，均使用**華為天生會畫**繪製。
+
+## ⭐ 261031 「萬聖節頭像模板」
+
+**繪畫過程**：[BV1b8xi6UEBd](https://www.bilibili.com/zh-Hant/video/BV1b8xi6UEBd)
+
+![261031](original/png/261031.png)
+
+### ⚠️ 注　意
+- 該作品為**模板**，建議直接基於 `original/gopaint/` 或 `original/psd/` 文件夾內的源文件（[`gopaint`](original/gopaint/261031.gopaint) [`psd`](original/psd/261031.psd)）進行創作。
 
 ## ✏️ 260928 「星藍，生日快樂！」
 
-**繪畫過程**：[BV1vxaV6yEbn](https://www.bilibili.com/video/BV1vxaV6yEbn)
+**繪畫過程**：[BV1vxaV6yEbn](https://www.bilibili.com/zh-Hant/video/BV1vxaV6yEbn)
 
 ![260928](re_creation/png/260928.png)
 
@@ -26,7 +35,7 @@
 
 ## ✏️ 260701 「讓我們共同守護公平的創作環境！」
 
-**繪畫過程**：[BV1ptTc6bEX6](https://www.bilibili.com/video/BV1ptTc6bEX6)
+**繪畫過程**：[BV1ptTc6bEX6](https://www.bilibili.com/zh-Hant/video/BV1ptTc6bEX6)
 
 ![260701](re_creation/png/260701_T.png)
 
