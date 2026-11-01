@@ -25,7 +25,7 @@
 
 ![260928](re_creation/png/260928.png)
 
-> **角色原作者**：「[bilibili @星藍想睡覺](https://space.bilibili.com/1396849646)」
+> **角色原作者**：「[bilibili @星藍想睡覺](https://space.bilibili.com/zh-Hant/1396849646)」
 > 
 > **畫師**：「[LioraChen09](https://github.com/LioraChen09)」
 
@@ -39,11 +39,11 @@
 
 ![260701](re_creation/png/260701_T.png)
 
-> **角色原作者**：「[bilibili @小畫渣林茜](https://space.bilibili.com/3546634958932547)」（左、中）　　「[LioraChen09](https://github.com/LioraChen09)」（右）
+> **角色原作者**：「[bilibili @小畫渣林茜](https://space.bilibili.com/zh-Hant/3546634958932547)」（左、中）　　「[LioraChen09](https://github.com/LioraChen09)」（右）
 > 
 > **畫師**：「[LioraChen09](https://github.com/LioraChen09)」
 
 ### ℹ️ 簡　介
-- 2026 年 6 月 24 日，嗶哩嗶哩 UP 主「[頭牛o](https://space.bilibili.com/3546562489748303)」針對一起關於他的作品的剽竊事件專門發表了[視頻](https://www.bilibili.com/video/BV1JujZ6gEqL)，要求侵權方立刻停止不當行為，下架違規內容、停止違規傳播。
-- 對此，另一位 UP 主「[小畫渣林茜](https://space.bilibili.com/3546634958932547)」也發表[視頻](https://www.bilibili.com/video/BV1bm7b6yES6)為此事件發聲，並表達了她對此事件的態度。
+- 2026 年 6 月 24 日，嗶哩嗶哩 UP 主「[頭牛o](https://space.bilibili.com/zh-Hant/3546562489748303)」針對一起關於他的作品的剽竊事件專門發表了[視頻](https://www.bilibili.com/zh-Hant/video/BV1JujZ6gEqL)，要求侵權方立刻停止不當行為，下架違規內容、停止違規傳播。
+- 對此，另一位 UP 主「[小畫渣林茜](https://space.bilibili.com/zh-Hant/3546634958932547)」也發表[視頻](https://www.bilibili.com/zh-Hant/video/BV1bm7b6yES6)為此事件發聲，並表達了她對此事件的態度。
 - 本人作為事件的親眼見證者，在事情發生後的週末繪製了這幅作品，旨在號召所有人**共同守護公平的創作環境**。
